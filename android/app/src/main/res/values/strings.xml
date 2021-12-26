@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">altitude</string>
+    <string name="facebook_app_id">374424387367185</string>
+               <string name="fb_login_protocol_scheme">fb374424387367185</string>
+</resources>

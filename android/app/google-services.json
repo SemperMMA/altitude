@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "275661472790",
+    "project_id": "mccs-altitude",
+    "storage_bucket": "mccs-altitude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275661472790:android:2af8bdb347e6737078e137",
+        "android_client_info": {
+          "package_name": "com.mccsiwakuni.altitude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275661472790-b3mlbe8lbovbsl0k5da7g3bgk6q53hge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mccsiwakuni.altitude",
+            "certificate_hash": "c0da1ff5f3b64b22c14dcec95413a1cb42486158"
+          }
+        },
+        {
+          "client_id": "275661472790-b1qolhojegspfcqls90vohjaev6out15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmqDgS4rQhfpeuUQHg831kzMhgs5SJa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275661472790-b1qolhojegspfcqls90vohjaev6out15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275661472790-t29ps6h2hdv3u7e3032smm8irs4bdl6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mccsiwakuni.altitude"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
